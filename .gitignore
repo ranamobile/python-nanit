@@ -1,0 +1,6 @@
+# Cache Files
+__pycache__
+
+# Test Files
+*.mp4
+*.json
